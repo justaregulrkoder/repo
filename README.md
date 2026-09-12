@@ -1,7 +1,7 @@
 GIT + MAVEN + DOCKER + TOMCAT — LAB PROCEDURE
 ================================================
 
-IMPORTANT
+IMPORTANT https://github.com/LightYagami-glitch/cicd/blob/main/README.md
 ---------
 The WAR procedure below follows the uploaded SE Lab instructions document.
 The JAR procedure is added separately as a standard Java/Maven Docker procedure
